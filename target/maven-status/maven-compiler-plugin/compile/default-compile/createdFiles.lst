@@ -1,0 +1,9 @@
+com\markovskisolutions\exceptions\BaseRuntimeException.class
+com\markovskisolutions\controller\PersonController.class
+com\markovskisolutions\repository\PersonRepository.class
+com\markovskisolutions\ServletInitializer.class
+com\markovskisolutions\exceptions\ErrorCode.class
+com\markovskisolutions\exceptions\ErrorMessage.class
+com\markovskisolutions\model\Person.class
+com\markovskisolutions\exceptions\handler\ExceptionController.class
+com\markovskisolutions\CrudApplication.class

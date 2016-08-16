@@ -1,0 +1,6 @@
+com\markovskisolutions\test\resultset\PageImplBean.class
+com\markovskisolutions\test\runner\AbstractTestRunner.class
+com\markovskisolutions\test\resultset\ResultSet$1.class
+com\markovskisolutions\controller\CrudApplicationTests.class
+com\markovskisolutions\controller\PersonControllerTest.class
+com\markovskisolutions\test\resultset\ResultSet.class
